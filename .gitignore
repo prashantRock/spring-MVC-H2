@@ -1,0 +1,10 @@
+.idea
+.classpath
+.project
+wrapper
+target
+.slcache/
+out/
+spring-mvc-embedded-db.iml
+web-app/lendingmantraFiles/
+*.log
